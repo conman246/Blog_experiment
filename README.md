@@ -1,0 +1,1 @@
+Creating a quick blog skeleton to practice front-end and testing in the near future. 
